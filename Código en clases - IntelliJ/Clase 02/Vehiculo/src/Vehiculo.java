@@ -1,16 +1,32 @@
 public class Vehiculo {
     // Atributos "Lo que tiene"
-    String marca;
-    int numeroDeLlantas;
-    String propietario;
-    double velocidad;
+    private String marca;
+    private int numeroDeLlantas;
+    private String propietario;
+    private double velocidad;
 
 
     // Métodos "Los comportamientos"
 
     public void acelerar(){
-        System.out.println("El vehiculo está acelerando");
+        velocidad = velocidad + 10;
+        System.out.println("El vehiculo está acelerando " + velocidad);
     }
+
+
+    // Métodos Getters y Setters
+    public void setPropietario(String nombrePropietario){
+        this.propietario = nombrePropietario;
+    }
+
+    public String getPropietario(){
+        return propietario;
+    }
+    public double getVelocidad(){
+        return velocidad;
+    }
+
+
 
 
 }

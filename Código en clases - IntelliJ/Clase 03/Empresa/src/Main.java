@@ -10,8 +10,6 @@ public class Main {
         RecursosHumanos recursosHumanos = new RecursosHumanos();
         recursosHumanos.aumentarSalarioEmpleado(empleado1, 200);
         empleado1.imprimirInformacion();
-
-
         Empleado empleado2 = new Empleado("Sebas", 456.50, "Gerente", "8horas");
 
     }

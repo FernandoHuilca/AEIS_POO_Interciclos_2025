@@ -1,2 +1,2 @@
-# Clase 5: AEIS_POO_Interciclos_2025. 📝
-![image](https://github.com/user-attachments/assets/b1c3708c-1234-4744-9cd6-08c4bc86d34c)
+# Clase 6 y 7: AEIS_POO_Interciclos_2025. 📝
+![image](https://github.com/user-attachments/assets/0a172d26-ce80-410b-b22c-585cb3c714ab)

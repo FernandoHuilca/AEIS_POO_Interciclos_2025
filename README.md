@@ -1,17 +1,6 @@
 # AEIS_POO_Interciclos_2025
 ¡Bienvenidos al repositorio oficial del curso de Programación Orientada a Objetos (POO) con Java! 🚀  ¡Vamos a programar como profesionales! 💻✨
 
-
-## 📸 Galería del Curso
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/32794e8c-c841-4b21-a6bc-53d1826bd4ec" alt="Proyectos finales" width="450">
-  <img src="https://github.com/user-attachments/assets/732cd836-a743-4908-9347-a3c33e593678" alt="Trabajo en equipo" width="450">
-  <img src="https://github.com/user-attachments/assets/9f4374f5-3d6d-4104-afb1-79e91ab2913e" alt="Ejercicios prácticos" width="450">
-  <img src="https://github.com/user-attachments/assets/c6fd95f5-03d7-4257-9098-2a5420e57ceb" alt="Sesión del curso" width="450">
-</div>
-
-
 ## 📚 Contenido del Curso
 
 ### Semana 1: Fundamentos de Java y POO
@@ -33,6 +22,16 @@
 - **Clase 10**: Introducción a principios SOLID en POO
 - **Clase 11**: Introducción a TDD (desarrollo guiado por pruebas) y pruebas unitarias
 - **Clase 12**: Proyecto final: Desarrollo de una aplicación con los conceptos aprendidos
+
+
+## 📸 Galería del Curso
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32794e8c-c841-4b21-a6bc-53d1826bd4ec" alt="Proyectos finales" width="400">
+  <img src="https://github.com/user-attachments/assets/732cd836-a743-4908-9347-a3c33e593678" alt="Trabajo en equipo" width="400">
+  <img src="https://github.com/user-attachments/assets/9f4374f5-3d6d-4104-afb1-79e91ab2913e" alt="Ejercicios prácticos" width="400">
+  <img src="https://github.com/user-attachments/assets/c6fd95f5-03d7-4257-9098-2a5420e57ceb" alt="Sesión del curso" width="400">
+</div>
 
 
 ## 📩 Contacto del Profesor
